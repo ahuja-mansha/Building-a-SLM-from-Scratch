@@ -35,5 +35,4 @@ This project documents the **end-to-end process of building a Small Language Mod
 
 ---
 
-## 📂 Repository Structure  
 
